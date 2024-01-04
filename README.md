@@ -1,6 +1,9 @@
+
+![image](https://github.com/mhedi-hasan/mhedi-hasan/assets/150262902/5f2d8858-1326-463d-bba9-8e660fb6af27)
+
 ### Hi, I'm Mehedi Hasan 👋<hr>
 #### <h4 style="font-size: 1.08rem; font-weight: 500;">👑 Web Development <br>🖊️ Love to write code<br>🎤 Like to share my knowledge
-![<h6 style="font-size: 1.02 rem; font-weight: 480;">👑 Web Development <br>🖊️ Love to write code<br>🎤 Like to share my knowledge]
+![<h4 style="font-size: 1.02 rem; font-weight: 480;">👑 Web Development <br>🖊️ Love to write code<br>🎤 Like to share my knowledge]
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 <h4>Skills: & Experiance:<hr></h4>✅ WordPress<br> ✅ JavaScript<br> ✅ PHP<br> ✅ HTML5 / CSS3 / SASS / Bootstrap<br> ✅ Photoshop / Illustrator
