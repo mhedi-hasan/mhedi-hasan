@@ -16,9 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhedi-hasan)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h4>☕ Connect with me! <hr></h4> <a href="(https://github.com/https://github.com/mhedi-hasan)">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]</a>  <a href="(https://www.linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-525ab02a6//)">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] </a> <a href="(https://www.facebook.com/https://www.facebook.com/profile.php?id=100093992685228)"> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]</a>  <a href="(https://www.youtube.com/channel/@Hasan-is7si4ye9z)">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]</a> <a href="mhedi-hasan.github.io/amazon/"> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' >]  </a>
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhedi-hasan&show_icons=true)  
 
