@@ -9,7 +9,7 @@
 
 ### Profile Hits:  [![HitCount](https://hits.dwyl.com/mhedi-hasan/assignment-no-4.svg?style=flat-square)](http://hits.dwyl.com/mhedi-hasan/assignment-no-4)
 
-#### ![Profile Viewer](https://komarev.com/ghpvc/?username=mhedi-hasan)
+### Profile Views: ![Profile Viewer](https://komarev.com/ghpvc/?username=mhedi-hasan)
 
 <h4>Skills: & Experiance:<hr></h4>✅ WordPress<br> ✅ JavaScript<br> ✅ PHP<br> ✅ HTML5 / CSS3 / SASS / Bootstrap<br> ✅ Photoshop / Illustrator <p>
 
